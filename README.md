@@ -19,5 +19,9 @@ I have Implemented a different approach then the one suggested in the form:
 
 8) Note: This fields are temporary selected as by using disposable emails, company verfication is not done, so tender details are not visible.
 
-9) The loom link shows that code is fully fuctional.
+9) Currently Rate limiting and pagination was not needed, so script does not include code for that.
+
+10) The loom link shows that code is fully fuctional.
     Link: https://www.loom.com/share/eacc8b07c841464ab6fd20d580272e77?sid=3cc2561e-a756-4478-97cd-10b0b9deb6de**
+
+11) If you have any doubts feel free to email!!
